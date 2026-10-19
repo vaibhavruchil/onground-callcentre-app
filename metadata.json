@@ -1,0 +1,6 @@
+{
+  "name": "On-Ground.ai Call Centre",
+  "description": "High-density operational call centre workstation with ranked lead queues, callback workflows, WebRTC audio calling, calendar scheduling, and Pulse team collaboration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
